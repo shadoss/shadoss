@@ -1,4 +1,25 @@
-## Hi there 👋
+# Hi there 👋, I'm [Your Name]!
+
+I'm a **Software Engineer** and **Frontend Developer** passionate about building great user experiences and writing clean, maintainable code.  
+
+### 🚀 Tech Stack
+- **Frontend:** Nuxt.js, Vue.js, React.js, TypeScript, Sass  
+- **Backend:** Node.js  
+- **Build Tools:** Webpack, Vite  
+
+### 🌱 Currently Exploring
+I'm diving into **Next.js** and **Tailwind CSS** to expand my frontend skillset!  
+
+### 🎯 Lifelong Learner  
+I love exploring new technologies and improving my craft every day.  
+
+### ⚽ Fun Facts  
+- I enjoy playing and watching **soccer** and **basketball**  
+- Big fan of **video games**  
+
+### 📫 Let's Connect!
+Feel free to reach out or check out my work!  
+[LinkedIn](https://www.linkedin.com/in/serafim-hados-9800b945/) | [Twitter](https://x.com/sera000) | [Behance](https://www.behance.net/S_HADOS7a80)
 
 <!--
 **shadoss/shadoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
