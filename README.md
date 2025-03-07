@@ -19,7 +19,7 @@ I love exploring new technologies and improving my craft every day.
 
 ### 📫 Let's Connect!
 Feel free to reach out or check out my work!  
-[LinkedIn](https://www.linkedin.com/in/serafim-hados-9800b945/) | [Twitter](https://x.com/sera000) | [Behance](https://www.behance.net/S_HADOS7a80)
+[LinkedIn](https://www.linkedin.com/in/serafim-hados-9800b945/) | [Behance](https://www.behance.net/S_HADOS7a80)
 
 <!--
 **shadoss/shadoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
