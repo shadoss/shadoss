@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Serafim Chados!
 
 I'm a **Software Engineer** and **Frontend Developer** passionate about building great user experiences and writing clean, maintainable code.  
 
