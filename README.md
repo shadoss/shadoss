@@ -3,12 +3,12 @@
 I'm a **Software Engineer** and **Frontend Developer** passionate about building great user experiences and writing clean, maintainable code.  
 
 ### 🚀 Tech Stack
-- **Frontend:** Nuxt.js, Vue.js, React.js, TypeScript, Sass  
+- **Frontend:** Nuxt.js, Vue.js, React.js, Next.js, TypeScript, Sass, Tailwind CSS   
 - **Backend:** Node.js  
 - **Build Tools:** Webpack, Vite  
 
-### 🌱 Currently Exploring
-I'm diving into **Next.js** and **Tailwind CSS** to expand my frontend skillset!  
+<!-- ### 🌱 Currently Exploring
+I'm diving into **Next.js** and **Tailwind CSS** to expand my frontend skillset!  -->
 
 ### 🎯 Lifelong Learner  
 I love exploring new technologies and improving my craft every day.  
